@@ -16,5 +16,5 @@ Brief description of the project.
 
 ## Contact
 
-[Azizah] - [nazizahm258gmail.com]
+**Azizah** - *nazizahm258gmail.com*
 
